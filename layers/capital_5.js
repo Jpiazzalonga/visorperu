@@ -1,0 +1,1 @@
+var json_capital_5 = {"type":"FeatureCollection","name":"capital_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Habitantes":"10292408"},"geometry":{"type":"Point","coordinates":[-77.041585792379351,-12.060230026026222]}}]}
